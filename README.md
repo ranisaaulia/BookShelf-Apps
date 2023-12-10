@@ -1,4 +1,4 @@
-# Bookshelf App README
+# Bookshelf Apps
 
 The Bookshelf App is a simple application that allows users to organize their books into two shelves that can be moved, deleted, and includes a search feature.
 
